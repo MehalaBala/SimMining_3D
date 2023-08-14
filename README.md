@@ -22,7 +22,7 @@ The dataset encompasses the following information:
 **ros_gtdatabase_hitachi:** Within this section, you'll discover cropped point data of the objects from the scene.
 
 ### Download
-https://unisyd-my.sharepoint.com/:f:/g/personal/mehala_balamurali_sydney_edu_au/EuHRMzbkDShGpYv6gV3dgcIB7ZXZKb_0EvUMPU7orcbojw?e=Fox0FY](https://unisyd-my.sharepoint.com/:f:/g/personal/mehala_balamurali_sydney_edu_au/Enns61uDsTxKjCiiPM4hx9MBizoIc_T4PoeI054PmTPzzA?e=FLo13r
+[https://unisyd-my.sharepoint.com/:f:/g/personal/mehala_balamurali_sydney_edu_au/EuHRMzbkDShGpYv6gV3dgcIB7ZXZKb_0EvUMPU7orcbojw?e=Fox0FY](https://unisyd-my.sharepoint.com/:f:/g/personal/mehala_balamurali_sydney_edu_au/Enns61uDsTxKjCiiPM4hx9MBizoIc_T4PoeI054PmTPzzA?e=FLo13r](https://unisyd-my.sharepoint.com/personal/mehala_balamurali_sydney_edu_au/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmehala%5Fbalamurali%5Fsydney%5Fedu%5Fau%2FDocuments%2FPublications%202023%2FAJCAI2023%2FSimMining%2D3D)
 
 Link to video: 
 
