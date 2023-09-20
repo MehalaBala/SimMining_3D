@@ -1,7 +1,6 @@
 # SimMining-3D
 The study proposes a novel approach that addresses the domain shift between synthetic and real data in 3D object detection for complex mining environments. 
-
-![fig1_old](https://github.com/MehalaBala/SimMining_3D/assets/141080983/42679d13-30f4-4b25-80ed-a73bb4e5b9b7)
+![fig1](https://github.com/MehalaBala/SimMining_3D/assets/141080983/c9b60e8b-6c5a-4064-bd40-a11261f3f921)
 
 
 ## Data Collection at simulated environment
